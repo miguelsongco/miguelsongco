@@ -15,6 +15,9 @@
   - Recovered deleted files, analyzed malware, and investigated cybercrime scenarios using industry tools
 - <b>PowerShell Scripting & Automation</b>
   - Automated system tasks and enhanced efficiency for E&E maintenance workflows
+- <b>Capstone: VR Arcade Classics (Pac-Man & Frogger) (In-Progress)</b>
+  - [VR Arcade Game Project (Unity, Quest 2)](https://github.com/miguelsongco/VR-Arcade-Classics)
+  - Recreated retro arcade games of both Pac-Man and Frogger for VR platforms. We are focusing on immersive gameplay and smooth performance. Our game will implement player and enemy mechanics for Pac-Man and Frogger, procedural generation for environments within Frogger, developing UI systems, and optimizing players' experiences. Contributed to animation, level design, and performance tuning using Unity and C# for Quest 2.
 
 <h2> Technical Skills & Tools</h2>
 
@@ -25,7 +28,7 @@
 
 <h2> Military & Leadership Experience</h2>
 
-- **Electrical & Environmental Aircraft Craftsman**, USAF & ANG (2016–Present)
+- **Staff Sergeant / Electrical & Environmental Aircraft Craftsman**, USAF & ANG (2016–Present)
   - Led 20+ aircraft specialists with a 95% mission success rate; supported 500+ flight hours monthly
   - Directed maintenance ops during Ukraine conflict deployment; received leadership recognition
   - Improved repair time by 15%, reduced aircraft downtime by 20%
