@@ -8,9 +8,9 @@
 - <b>March Madness Game Simulator</b>
   - Engineered a microservices-based simulator with Fetch API and Python, simulating game results and team data
 - <b>Database Portfolio: Game Review Web App</b>
-  - [Game Review Platform (SQL, HTML, JS)](https://github.com/miguelsongco/GameReviewDB)
+  - [Game Review Platform (SQL, HTML, JS)](https://web.engr.oregonstate.edu/~songcom/CS340_Project/)
 - <b>Personal Portfolio Website</b>
-  - [Web Portfolio (HTML, CSS, JavaScript, Responsive Design)](https://github.com/miguelsongco/PortfolioSite)
+  - [Web Portfolio (HTML, CSS, JavaScript, Responsive Design)](https://web.engr.oregonstate.edu/~songcom/m7-songcom-staff/public/index.html)
 - <b>Digital Forensics Toolkit (FTK Imager, Autopsy)</b>
   - Recovered deleted files, analyzed malware, and investigated cybercrime scenarios using industry tools
 - <b>PowerShell Scripting & Automation</b>
