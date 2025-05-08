@@ -18,6 +18,17 @@
 - <b>Capstone: VR Arcade Classics (Pac-Man & Frogger) (In-Progress)</b>
   - [VR Arcade Game Project (Unity, Quest 2)](https://github.com/miguelsongco/VR-Arcade-Classics)
   - Recreated retro arcade games of both Pac-Man and Frogger for VR platforms. We are focusing on immersive gameplay and smooth performance. Our game will implement player and enemy mechanics for Pac-Man and Frogger, procedural generation for environments within Frogger, developing UI systems, and optimizing players' experiences. Contributed to animation, level design, and performance tuning using Unity and C# for Quest 2.
+    - <b>Pac-Man VR:</b>
+      - Implemented AI-driven ghost behaviors (Blinky, Pinky, Inky, Clyde) that mirror the original game’s personalities.
+      - Integrated scared mode mechanics where ghosts dynamically switch to defensive patterns.
+      - Built responsive VR controls and immersive UI systems for seamless player interaction.
+    - <b>Frogger VR:</b>
+      - Developed procedural generation for road/river obstacles to create fresh gameplay every session.
+      - Created immersive 3D environments and precise collision mechanics for VR movement.
+    - <b>My Contributions:</b>
+      - Designed character animations and enemy mechanics for Pac-Man.
+      - Led level design and obstacle logic for Frogger.
+      - Focused on performance optimization to maintain smooth VR gameplay (40–60 FPS target).
 
 <h2> Technical Skills & Tools</h2>
 
